@@ -1,2 +1,2 @@
 Creating a new branch is quick.
-In branch lyk.
+In branch master.
